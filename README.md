@@ -3,7 +3,9 @@ My name is Tsen-Hung Wu. I have complied all my hard works in school projects in
 
 ## Project Title
 1. Yelp Data Challenge – Sentiment Analysis and Recommender System
+
   • Used NLP techniques, such as stemming, lemmatization, and TF-IDF, to extract features from unstructured review text data
+  
   •	Built language understanding models including Naïve Bayes, Logistic Regression, and Random Forest to classify positive and 
     negative reviews using NLP techniques. Logistic Regression achieved 0.9072 AUC on the test dataset
   •	Used unsupervised learning to cluster users into groups. Identified and understood the common user preference within each 
