@@ -10,7 +10,7 @@ My name is Tsen-Hung Wu. I have complied all my hard works in school projects in
 ## Project Title
 1. Yelp Data Challenge – Sentiment Analysis and Recommender System
 
-    •   Through this project, I wanted to solve two main problems:
+    •   Through this project, I solved two main problems:
     
     (1) Classified negative and positive reviews by a self-defined metric. After the model fitting, gained insights about 
         what words usually contribute to the negative or positive review. A restaurant can summarize what's the main 
