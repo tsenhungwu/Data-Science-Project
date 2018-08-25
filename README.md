@@ -1,7 +1,9 @@
 # Data-Science-Project
 My name is Tsen-Hung Wu. I have complied all my hard works in school projects in the Data Science Project.
 
-![alt text](https://github.com/xbellyx/Data-Science-Project/blob/master/Projects/Yelp%20Data%20Challenge/Yelp_image.jpg)
+<br>
+<img height="700" src="https://github.com/xbellyx/Data-Science-Project/blob/master/Projects/Yelp%20Data%20Challenge/Yelp_image.jpg" />
+<br>
 
 ## Project Title
 1. Yelp Data Challenge – Sentiment Analysis and Recommender System
