@@ -3,7 +3,7 @@ My name is Tsen-Hung Wu. I have complied all my hard works in school projects in
 
 <br>
 <img align="left" height="200" width="300" src="https://github.com/xbellyx/Data-Science-Project/blob/master/Projects/Yelp%20Data%20Challenge/Yelp_image.jpg" />
-<img align="right" height="200" width="300" src="https://github.com/xbellyx/Data-Science-Project/blob/master/Projects/Yelp%20Data%20Challenge/Yelp_image.jpg" />
+<img align="center" height="200" width="300" src="https://github.com/xbellyx/Data-Science-Project/blob/master/Projects/Yelp%20Data%20Challenge/Yelp_image.jpg" />
 <br>
 
 
