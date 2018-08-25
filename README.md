@@ -21,6 +21,5 @@ My name is Tsen-Hung Wu. I have complied all my hard works in school projects in
         collaborative filtering and matrix factorization based on users’ past visits and ratings.
 
 ## Motivation
-I have accumulated different aspects of knowledge in data science after each project completion.
-Each of projects signifies what I have learned in the past and what I have achieved. 
+Each data science project is unique and has different problems that need to solve. I found doing data science projects are interesting and encourages me to achieve goals not just project oriented but also a continuous learning on a whole data science career path.
 
