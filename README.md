@@ -23,10 +23,10 @@ Hi! My name is Tsen-Hung Wu. I have complied all my hard works in school project
 2. Lending Club Data Challenge - Loan repayment ability and risk adjusted interest rate predictions”
     •   Main tasks have accomplished under this project: 
     | Model | AUC (Area Under Curve) | Accuracy (Number of correctly predicted labels / Total number of labels) | Precision (TP / TP + FP) |
-| ---  | --- | --- | --- |
-| Logistic Regression (Datset II)| 0.9561 | 0.9923 | 0.7979 |
-| Random Forest (Datset I)| 0.9713 | **0.9924** | 0.7755 |
-| GBDT (Datset I)| **0.9735** | 0.9913 | **0.8367** |
+    | ---  | --- | --- | --- |
+    | Logistic Regression (Datset II)| 0.9561 | 0.9923 | 0.7979 |
+    | Random Forest (Datset I)| 0.9713 | **0.9924** | 0.7755 |
+    | GBDT (Datset I)| **0.9735** | 0.9913 | **0.8367** |
     (1) Imputed missing data, and dealt date-time data with feature engineering.
     
     (2) Performed feature selection through exploratory analysis and statistical testings such as two sample t-test and 
