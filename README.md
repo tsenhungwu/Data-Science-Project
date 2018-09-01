@@ -72,7 +72,7 @@ Hi! My name is Tsen-Hung Wu. I have complied all my hard works in school project
      ---  | --- | --- 
     Bagged Decision Tree Regression| 1.31 | 0.94
     Random Forest Regression | 2.51 | 0.89
-    GB Regression | 0.73 | 0.97
+    GB Regression | **0.73** | **0.97**
    
 
 ## Motivation
