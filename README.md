@@ -21,6 +21,7 @@ Hi! My name is Tsen-Hung Wu. I have complied all my hard works in school project
         collaborative filtering and matrix factorization based on users’ past visits and ratings.
 
 2. Lending Club Data Challenge - Loan repayment ability and risk adjusted interest rate predictions”
+    
     •   Main tasks have accomplished under this project: 
     
     (1) Imputed missing data, and dealt date-time data with feature engineering.
@@ -38,11 +39,41 @@ Hi! My name is Tsen-Hung Wu. I have complied all my hard works in school project
     
     (6) Hyper-parameter tuning on models to achieve the optimal performance based on the predefined objective.
     
-    Model | AUC (Area Under Curve) | Accuracy (Number of correctly predicted labels / Total number of labels) | Precision (TP / TP + FP) 
+    • Four response variables are predicted and the results were summarized as four tables: 
+    
+    (1) loan_status_binary: A binary classification problem, whether a loan application is "Default" or not. 
+    
+    Model | AUC | Accuracy | Precision
      ---  | --- | --- | --- 
-    Logistic Regression (Datset II)| 0.9561 | 0.9923 | 0.7979 
-    Random Forest (Datset I)| 0.9713 | **0.9924** | 0.7755
-    GBDT (Datset I)| **0.9735** | 0.9913 | **0.8367**
+    Logistic Regression | 0.9561 | 0.9923 | 0.7979 
+    Random Forest | 0.9713 | **0.9924** | 0.7755
+    GBDT | **0.9735** | 0.9913 | **0.8367**
+    
+    (2) loan_status: A multi-classification problem. Labels are 'Current', 'Fully Paid', 'Late (31-120 days)', 'Charged Off',
+       'Late (16-30 days)', and 'In Grace Period'.
+       
+    Model | Accuracy (All labels)
+     ---  | --- 
+    Logistic Regression | 0.9879
+    Random Forest | **0.9880**
+    GBDT | 0.9866
+    
+    (3) grade: A multi-classification problem. Labels from grade A (best) to grade G (least).
+    
+    Model | Accuracy | Accuracy (from grade D to G)
+     ---  | --- | --- 
+    Logistic Regression | 0.8006 | 0.7979
+    Random Forest | 0.9109 | 0.7755
+    GBDT | **0.9564** | **0.8367**
+    
+    (4) int_rate: A continuous prediction or a regression problem.
+    
+    Model | MSE | R-squared (model explained variance / total original variance)
+     ---  | --- | --- 
+    Bagged Decision Tree Regression| 1.31 | 0.94
+    Random Forest Regression | 2.51 | 0.89
+    GB Regression | 0.73 | 0.97
+   
 
 ## Motivation
 Each data science project is unique and has different problems that need to solve. I found doing data science projects are interesting and encourages me to achieve goals not just project oriented but also a continuous learning on a whole data science career path.
