@@ -6,6 +6,8 @@ Hi! My name is Tsen-Hung Wu. I have complied all my hard works in school project
     <img height="200" width="300" src="https://github.com/xbellyx/Data-Science-Project/blob/master/Lending%20Club/Lending_Club_image.jpg" />
 </p>
 
+## Motivation
+Each data science project is unique and has different problems that need to solve. I found doing data science projects are interesting and encourages me to achieve goals not just project oriented but also a continuous learning on a whole data science career path.
 
 ## Project Title
 1. Yelp Data Challenge – Sentiment Analysis and Recommender System
@@ -73,8 +75,3 @@ Hi! My name is Tsen-Hung Wu. I have complied all my hard works in school project
     Bagged Decision Tree Regression| 1.31 | 0.94
     Random Forest Regression | 2.51 | 0.89
     GB Regression | **0.73** | **0.97**
-   
-
-## Motivation
-Each data science project is unique and has different problems that need to solve. I found doing data science projects are interesting and encourages me to achieve goals not just project oriented but also a continuous learning on a whole data science career path.
-
