@@ -68,7 +68,7 @@ Hi! My name is Tsen-Hung Wu. I have complied all my hard works in school project
     
     (4) int_rate: A continuous prediction or a regression problem.
     
-    Model | MSE | R-squared (model explained variance / total original variance)
+    Model | MSE | R-squared
      ---  | --- | --- 
     Bagged Decision Tree Regression| 1.31 | 0.94
     Random Forest Regression | 2.51 | 0.89
