@@ -83,11 +83,16 @@ Each data science project is unique and has different problems that need to solv
 
     • Used web scraping techniques to collect unstructured text data including labels, full contents of answers, upvotes, 
       questions from the Quora website.
+      
     • Performed Exploratory Data Analysis (EDA) on raw data to receive important insights that might be beneficial to the 
       following tasks.  
+      
     • Identified duplicate questions and saved searching time for askers on Quora through our designed search engine.
     • Classified labels for each question using Linear SVC classifier.
+    
     • Compared Vector Space Model, Support Vector Machine, Random Forest, and Convolutional Neural Network (89% accuracy) 
       model performances under the task of question matchings and answer recommendations.
+      
     • Provided the most reliable answer to the asker given a question via CNN.
+    
     • Tuned hyperparameters of models to attain the optimal prediction.
