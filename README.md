@@ -10,7 +10,7 @@ Hi! My name is Tsen-Hung Wu. I have complied all my hard works in school project
 </p>
 
 ## Motivation
-Each data science project is unique and has different problems that need to solve. I found doing data science projects are interesting and encourages me to achieve goals not just project oriented but also a continuous learning on a whole data science career path.
+Each data science project is unique and has different problems that needed to solve. I found doing data science projects are interesting and encourages me to achieve valuable goals. As a continuous learner, I keep accumulating the knowledge and the practical experience across projects.
 
 ## Project Titles and Descriptions
 1. Yelp Data Challenge – Sentiment Analysis and Recommender System
