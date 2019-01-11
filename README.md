@@ -13,7 +13,14 @@ Hi! My name is Tsen-Hung Wu. I have complied all my hard works in school project
 Each data science project is unique and has different problems that needed to solve. I found doing data science projects are interesting and encourages me to achieve valuable goals. As a continuous learner, I keep accumulating the knowledge and the practical experience across projects.
 
 ## Project Titles and Descriptions
-1. Yelp Data Challenge – Sentiment Analysis and Recommender System
+1. Bank Marketing Campaigns - How to attract more customers to subscribe term deposits?
+(1) Addressed an unbalance label issue using SMOTE, an efficient over-sampling technique.
+(2) Completed a model comparison experiment among nine machine learning models.
+(3) Optimized hyperparameters of each model by Bayesian Optimization.
+(4) 97% AUC was achieved on the test data by the validated Gradient Boosting. 
+(5) Feature importance results were compared and interpreted between statistical hypothesis testings and model outputs.
+
+2. Yelp Data Challenge – Sentiment Analysis and Recommender System
 
     •   Through this project, I solved two main problems:
     
@@ -25,7 +32,7 @@ Each data science project is unique and has different problems that needed to so
         within each of the group by inspecting the cluster centroids. Built a restaurant recommender system using 
         collaborative filtering and matrix factorization based on users’ past visits and ratings.
 
-2. Lending Club Data Challenge - Loan repayment ability and risk adjusted interest rate predictions”
+3. Lending Club Data Challenge - Loan repayment ability and risk adjusted interest rate predictions”
     
     •   Main tasks have accomplished under this project: 
     
@@ -79,7 +86,7 @@ Each data science project is unique and has different problems that needed to so
     Random Forest Regression | 2.51 | 0.89
     GB Regression | **0.73** | **0.97**
 
-3. Quora Automated Q&A about Bitcoin - question matchings and answer recommendations
+4. Quora Automated Q&A about Bitcoin - question matchings and answer recommendations
 
     • Used web scraping techniques to collect unstructured text data including labels, full contents of answers, upvotes, 
       questions from the Quora website.
