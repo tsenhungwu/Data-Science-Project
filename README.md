@@ -14,10 +14,15 @@ Each data science project is unique and has different problems that needed to so
 
 ## Project Titles and Descriptions
 1. Bank Marketing Campaigns - How to attract more customers to subscribe term deposits?
+
 (1) Addressed an unbalance label issue using SMOTE, an efficient over-sampling technique.
+
 (2) Completed a model comparison experiment among nine machine learning models.
+
 (3) Optimized hyperparameters of each model by Bayesian Optimization.
+
 (4) 97% AUC was achieved on the test data by the validated Gradient Boosting. 
+
 (5) Feature importance results were compared and interpreted between statistical hypothesis testings and model outputs.
 
 2. Yelp Data Challenge – Sentiment Analysis and Recommender System
