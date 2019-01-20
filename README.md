@@ -24,8 +24,16 @@ Each data science project is unique and has different problems that needed to so
     (4) 97% AUC was achieved on the test data by the validated Gradient Boosting. 
 
     (5) Feature importance results were compared and interpreted between statistical hypothesis testings and model outputs.
+    
+2. Breast Cancer - Predict whether the cancer is benign or malignant
 
-2. Yelp Data Challenge – Sentiment Analysis and Recommender System
+    (1) 99% AUC, 97% accuracy, and 97% recall were achieved on the test data by the validated LightGBM.
+    
+    (2) Top 10 most important features have been interpreted and summarized by the visualizations, statistical hypothesis 
+        testings, and models' outputs.
+    
+
+3. Yelp Data Challenge – Sentiment Analysis and Recommender System
 
     •   Through this project, I solved two main problems:
     
@@ -37,7 +45,7 @@ Each data science project is unique and has different problems that needed to so
         within each of the group by inspecting the cluster centroids. Built a restaurant recommender system using 
         collaborative filtering and matrix factorization based on users’ past visits and ratings.
 
-3. Lending Club Data Challenge - Loan repayment ability and risk adjusted interest rate predictions”
+4. Lending Club Data Challenge - Loan repayment ability and risk adjusted interest rate predictions”
     
     •   Main tasks have accomplished under this project: 
     
@@ -91,7 +99,7 @@ Each data science project is unique and has different problems that needed to so
     Random Forest Regression | 2.51 | 0.89
     GB Regression | **0.73** | **0.97**
 
-4. Quora Automated Q&A about Bitcoin - question matchings and answer recommendations
+5. Quora Automated Q&A about Bitcoin - question matchings and answer recommendations
 
     • Used web scraping techniques to collect unstructured text data including labels, full contents of answers, upvotes, 
       questions from the Quora website.
