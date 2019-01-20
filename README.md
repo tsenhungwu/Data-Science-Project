@@ -26,10 +26,14 @@ Each data science project is unique and has different problems that needed to so
     (5) Feature importance results were compared and interpreted between statistical hypothesis testings and model outputs.
     
 2. Breast Cancer - Predict whether the cancer is benign or malignant
-
-    (1) 99% AUC, 97% accuracy, and 97% recall were achieved on the test data by the validated LightGBM.
     
-    (2) Top 10 most important features have been interpreted and summarized by the visualizations, statistical hypothesis 
+    (1) Completed a model comparison experiment among nine machine learning models.
+    
+    (2) Optimized hyperparameters of each model by Bayesian Optimization.
+   
+    (3) 99% AUC, 97% accuracy, and 97% recall were achieved on the test data by the validated LightGBM.
+    
+    (4) Top 10 most important features have been interpreted and summarized by the visualizations, statistical hypothesis 
         testings, and models' outputs.
     
 
