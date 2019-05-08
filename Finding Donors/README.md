@@ -3,34 +3,25 @@
   <img width="450" height="380" src="https://github.com/tsenhungwu/Data-Science-Project/blob/master/Finding%20Donors/Images/fundonor.png" />
   
 # Introduction
-Compared with relational databases ([My PostgreSQL Data Modeling Project](https://github.com/tsenhungwu/Data-Engineer-Project/tree/master/Isongs)) and NoSQL databases ([My Apache Cassandra Data Modeling Project](https://github.com/tsenhungwu/Data-Engineer-Project/tree/master/Isongs_Apache_Cassandra)), Data Warehouses implemented and hosted on a cloud-based platform (Amazon Web Services or AWS) have severl advantages:
+In this project, I used several supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S. Census. I then chose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data. 
 
-The advantages of using AWS to build cloud-based data warehouses:
-  - Lower barrier to enter (we don't buy stuff but rent!)
-  - May add or change as we need
-  - Scalability and elasticity out of the box (add and remove resources)
+This sort of task can arise in a non-profit setting, where organizations survive on donations. Understanding an individual's income can help a non-profit better understand how large of a donation to request, or whether or not they should reach out to begin with.
 
 
-Now, a music streaming platform has grown its user base and song database, and thus moving its data on the cloud might be a good choice. Currently, data resides in AWS S3 in a directory of JSON logs on user activity on the platform, as well as a directory with JSON metadata on it.
 
-Again, using AWS, we can still answer the specific questions proposed by the analytics team:  
-  - What types of songs and artists are users listening to?
-  - When is the most frequent time users logging into the app?
-  - How long have users stayed on the app for each logging activity?
 
 # Objectives
 Throughout this project, I have achieved the following tasks:
 
-- Built an ETL pipeline which extracts data from S3 bucket and stages data in Redshift.
-- Optimized table design in Redshift to achieve a faster data ingestion process.
-- Transformed data into a set of dimensional tables and fact table for continued analysis.
+- Explored Data through visualizations.
+- Data transformation on features having skew distribution.
+- Constructed a model that accurately predicts whether an individual makes more than $50,000.
+- Optimized model by Bayesian Optimization.
+- Feature importance report
 
 
 # Technology
 <p align="middle">
-  <img height="125" width="250" src="https://github.com/tsenhungwu/Data-Engineer-Project/blob/master/Isongs_AWS/Images/aws_redshift.png"/>
-  <img height="200" width="300" src="https://github.com/tsenhungwu/Data-Engineer-Project/blob/master/Isongs_AWS/Images/aws_s3.png"/>
-  <img height="150" width="250" src="https://github.com/tsenhungwu/Data-Engineer-Project/blob/master/Isongs_AWS/Images/aws_ec2.png"/>
   <img height="210" width="510" src="https://github.com/tsenhungwu/Data-Engineer-Project/blob/master/Isongs/Images/Python.png" />
 </p>
 
