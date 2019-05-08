@@ -1,6 +1,6 @@
 
 <p align="middle">
-  <img width="450" height="380" src="https://github.com/tsenhungwu/Data-Science-Project/blob/master/Finding%20Donors/Images/fundonor.png" />
+  <img width="450" height="380" src="https://github.com/tsenhungwu/Data-Science-Project/blob/master/Finding%20Donors/Images/Fundonor.png" />
   
 # Introduction
 Compared with relational databases ([My PostgreSQL Data Modeling Project](https://github.com/tsenhungwu/Data-Engineer-Project/tree/master/Isongs)) and NoSQL databases ([My Apache Cassandra Data Modeling Project](https://github.com/tsenhungwu/Data-Engineer-Project/tree/master/Isongs_Apache_Cassandra)), Data Warehouses implemented and hosted on a cloud-based platform (Amazon Web Services or AWS) have severl advantages:
