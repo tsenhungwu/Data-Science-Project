@@ -39,7 +39,7 @@ Feature Exploration:
   - occupation: **categorical with 14 levels.** Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.
   - relationship: **categorical with 6 levels.** Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.
   - race: **categorical with 5 levels.** Black, White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other.
-  - sex: **categorical with 2 levels. Female, Male.
+  - sex: **categorical with 2 levels.** Female, Male.
   - capital-gain: continuous.
   - capital-loss: continuous.
   - hours-per-week: continuous.
